@@ -1,4 +1,3 @@
-EM ANDAMENTO
 
 Desafio: Atravez de um projecto JAVA.
  - Criar na pratica uma aplicação de dominoo Bootcamp, implementando uma das princimpais ferramentas da OO: 
